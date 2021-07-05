@@ -1,2 +1,8 @@
-# Juego-estrellas
- juego de las estrellas
+# Juego de las estrellas
+
+ despues de haber ejecutado el comando **npm create-react-app nombreproyecto**
+
+reemplazar la carpeta *src* con el proyecto
+
+
+
